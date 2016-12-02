@@ -7,3 +7,5 @@ en local como en remote
 danos hoy nuestro pull de cada dia
 perdona nuestros conflictos
 como tambien perdonamos los de otros geeks
+no nos dejes caer en detachead <HEAD>
+y libranos del s/n
